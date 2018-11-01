@@ -169,9 +169,9 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vYC-U4-wlD">
-                                <rect key="frame" x="162" y="516" width="46" height="30"/>
+                                <rect key="frame" x="150" y="516" width="71" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Next Page"/>
                                 <connections>
                                     <segue destination="Z8O-zT-NYS" kind="show" id="pbC-p0-Glu"/>
                                 </connections>
